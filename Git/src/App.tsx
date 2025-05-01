@@ -1,11 +1,7 @@
 import "./App.css";
 
 function App() {
-  return (
-    <>
-    sdfs
-    </>
-  );
+  return <>123</>;
 }
 
 export default App;
